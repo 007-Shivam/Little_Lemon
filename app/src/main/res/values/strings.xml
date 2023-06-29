@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">LittleLemon</string>
+    <string name="login">LOG IN</string>
+    <string name="logout">LOG OUT</string>
+    <string name="email">EMAIL</string>
+    <string name="s_email">Email</string>
+    <string name="password">PASSWORD</string>
+    <string name="s_password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="no_acc">Don\'t have account? Sign Up</string>
+    <string name="signup">SIGN UP</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="add">Address</string>
+    <string name="address">\t\t\t\t\t\t\t\tLittle Lemon,
+        \n\t\tKesar Residency Building,
+        \n\t\t\t\t\t\t\tKandivali West,
+        \n\t\t\t\t\tMumbai - 400 067</string>
+    <string name="con">Contact</string>
+    <string name="ph1">+91 9654781359</string>
+    <string name="ph2">+91 5719030508</string>
+
+    <string name="pan65">Paneer 65</string>
+    <string name="tand">Tandoori Chicken</string>
+    <string name="butch">Butter Chicken</string>
+    <string name="chobh">Choola Bhatura</string>
+    <string name="pavbh">Paav Bhaji</string>
+    <string name="plkpan">Paalak Paneer</string>
+    <string name="gulja">Gulab Jaamun</string>
+    <string name="jal">Jalebi</string>
+
+    <string name="description">Description:</string>
+    <string name="ing">Ingredients:</string>
+
+    <string name="pan65_des">Paneer 65 is a popular Indian vegetarian dish made by marinating cubes of paneer (Indian cottage cheese) in a flavorful blend of spices, herbs, and yogurt. The marinated paneer is then deep-fried until crispy and served as a spicy and tangy appetizer or snack.</string>
+    <string name="pan65_ing">Paneer\nYogurt\nRed chili powder\nGaram masala</string>
+
+    <string name="tand_des">Tandoori chicken is a popular Indian dish characterized by marinated chicken pieces cooked in a traditional clay oven called a tandoor. It is known for its vibrant red color and smoky flavor</string>
+    <string name="tand_ing">Chicken\nYogurt\nLemon juice\nRed chili powder</string>
+
+    <string name="butch_des">Butter chicken is a popular Indian dish consisting of tender chicken cooked in a rich, creamy tomato sauce.</string>
+    <string name="butch_ing">Chicken\nYogurt\nButter\nTomatoes\nOnions</string>
+
+    <string name="chobh_des">Chole Bhatura is a popular North Indian dish consisting of deep-fried, fluffy bread called Bhatura, served with spicy and tangy chickpea curry known as Chole.</string>
+    <string name="chobh_ing">All-Purpose Flour\nSemolina\nChickpeas\nOnion\nTomato</string>
+
+    <string name="pavbh_des">Paav Bhaji is a popular Indian street food dish consisting of mashed vegetables cooked with a blend of spices, served with buttered bread rolls.</string>
+    <string name="pavbh_ing">Potatoes\nCauliflower\nCarrotsPav\nBhaji masala</string>
+
+    <string name="plkpan_des">Palak paneer is a popular Indian vegetarian dish where cubes of soft cottage cheese are cooked in a flavorful, creamy spinach gravy, infused with aromatic spices, resulting in a delightful and nutritious combination of flavors.</string>
+    <string name="plkpan_ing">Spinach (palak)\nPaneer (cottage cheese)\nOnions\nTomatoes</string>
+
+    <string name="gulja_des">Gulab Jamun is a popular Indian dessert made from a dough of milk solids and flour, deep-fried until golden brown.</string>
+    <string name="gulja_ing">Milk solids\nAll-purpose flour\nClarified butter\nSugar\nWater</string>
+
+    <string name="jal_des">Jalebi is a popular Indian sweet made by deep-frying a fermented batter in a pretzel or circular shape, which is then soaked in a sugary syrup.</string>
+    <string name="jal_ing">All-purpose flour\nYogurt\nSugarWater</string>
+
+
+
+
+
+
+</resources>
